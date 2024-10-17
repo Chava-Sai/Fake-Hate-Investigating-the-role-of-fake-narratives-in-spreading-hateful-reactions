@@ -58,7 +58,7 @@ The model architecture includes:
    - **Hate Detection Branch**: Identifies hate speech in text.
 3. **Clustering**: Clusters are formed based on embeddings, and distances from cluster centers are incorporated as additional features.
 
-![Shared Layers Flow](path_to_shared_layers_flow_image)
+![Shared Layers Flow](https://i.imgur.com/706v4QX.png)
 
 ---
 
@@ -70,11 +70,11 @@ The model architecture includes:
   <tr>
     <td align="center">
       <strong>Cluster Formation</strong><br>
-      <img src="path_to_cluster_formation_image" alt="Cluster Formation" width="400"/>
+      <img src="https://i.imgur.com/693blY8.png" alt="Cluster Formation" width="400"/>
     </td>
     <td align="center">
       <strong>Distance Calculation</strong><br>
-      <img src="path_to_distance_calculation_image" alt="Distance Calculation" width="400"/>
+      <img src="https://i.imgur.com/9gOQSzM.png" alt="Distance Calculation" width="400"/>
     </td>
   </tr>
 </table>
@@ -85,11 +85,11 @@ The model architecture includes:
   <tr>
     <td align="center">
       <strong>Fake Detection Results</strong><br>
-      <img src="path_to_fake_detection_results_image" alt="Fake Detection Results" width="400"/>
+      <img src="https://i.imgur.com/dCszwHq.png" alt="Fake Detection Results" width="400"/>
     </td>
     <td align="center">
       <strong>Hate Detection Results</strong><br>
-      <img src="path_to_hate_detection_results_image" alt="Hate Detection Results" width="400"/>
+      <img src="https://i.imgur.com/S1EkNta.png" alt="Hate Detection Results" width="400"/>
     </td>
   </tr>
 </table>
