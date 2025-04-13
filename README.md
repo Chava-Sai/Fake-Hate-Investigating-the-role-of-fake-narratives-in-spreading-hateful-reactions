@@ -2,7 +2,7 @@
 
 # Fake and Hate Speech Detection in Multilingual Social Media Text
 
-![Model Flow](https://i.imgur.com/rcaI6kq.png)
+![Model Flow](https://imgur.com/a/plFTz5N)
 
 This project focuses on identifying **fake news** and **hate speech** in multilingual social media posts, leveraging transliteration, translation, embedding extraction, and clustering techniques to improve detection accuracy.
 
